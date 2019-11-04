@@ -1,4 +1,4 @@
-## Binary Analysis Cookbook
+## Pick Up Your Copy Today
 
 Pick up your copy of Binary Analysis Cookbook by Michael Born from one of these trusted sellers:
 
