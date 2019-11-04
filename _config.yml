@@ -1,5 +1,5 @@
-title: Binary Analysis Cookbook
-description: Binary Analysis Cookbook by Michael Born
+title: Binary Analysis Cookbook:
+description: Actionable recipes for disassembling and analyzing binaries for security risks
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
