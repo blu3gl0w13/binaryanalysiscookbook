@@ -10,4 +10,4 @@ Are you a beginner at binary analysis? Have you always wanted to learn the intri
 * [Apple iBooks](https://books.apple.com/us/book/binary-analysis-cookbook/id1480468422)
 
 
-<a class="ba-award" href="https://bookauthority.org/books/best-malware-books?t=13yufl&s=award&book=1789807603" target="_blank" style="margin:20px; outline:0"><img src="https://award.bookauthority.org/best-malware-books.png?b=1789807603&c=1&v=6&w=200" style="width:200px; height:183px; border:0" alt="BookAuthority Best Malware Books of All Time"/></a>
+<a class="ba-award" href="https://bookauthority.org/books/best-binary-analysis-books?t=ttl58r&s=award&book=1789807603" target="_blank" style="margin:20px; outline:0"><img src="https://award.bookauthority.org/best-binary-analysis-books.png?b=1789807603&c=1&v=6&w=200" style="width:200px; height:183px; border:0" alt="BookAuthority Best Binary Analysis Books of All Time"/></a>
