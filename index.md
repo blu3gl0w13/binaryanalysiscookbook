@@ -4,7 +4,7 @@ Are you a beginner at binary analysis? Have you always wanted to learn the intri
 ![BAC](images/bac-cover-small.jpeg)
 
 * [Amazon.com](https://www.amazon.com/Binary-Analysis-Cookbook-Actionable-disassembling/dp/1789807603/ref=asc_df_1789807603/?tag=hyprod-20&linkCode=df0&hvadid=385558156731&hvpos=1o1&hvnetw=g&hvrand=4489947837441001572&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024587&hvtargid=pla-825215733305&psc=1&tag=&ref=&adgrpid=78303889346&hvpone=&hvptwo=&hvadid=385558156731&hvpos=1o1&hvnetw=g&hvrand=4489947837441001572&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024587&hvtargid=pla-825215733305)
-* [Packt Publishing](https://packtpub.com/security/binary-analysis-cookbook](https://www.packtpub.com/en-us/product/binary-analysis-cookbook-9781789809497)
+* [Packt Publishing](https://www.packtpub.com/en-us/product/binary-analysis-cookbook-9781789809497)
 * [Barnes and Noble](https://www.barnesandnoble.com/w/binary-analysis-cookbook-michael-born/1133738442?ean=9781789807608)
 * [Google Play Store Books](https://play.google.com/store/books/details/Michael_Born_Binary_Analysis_Cookbook?id=OlqxDwAAQBAJ&hl=en_US)
 * [Apple iBooks](https://books.apple.com/us/book/binary-analysis-cookbook/id1480468422)
